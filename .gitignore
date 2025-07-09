@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+env/
+deepul-env/
+
+# IDEs
+.vscode/
+.idea/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+*.synctex.gz
+
+# Big data files
+*.pkl
+*.pth
+*.zip
+*.tar.gz
+cifar-10-batches-py/
