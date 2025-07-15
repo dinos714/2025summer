@@ -26,3 +26,4 @@ deepul-env/
 *.zip
 *.tar.gz
 cifar-10-batches-py/
+hw3/data/*.downloading
