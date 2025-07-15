@@ -1,6 +1,6 @@
 # Generative AI for Science: Summer Intensive 2025
 
-Personal solutions to Generative AI for Science: Summer Intensive 2025
+Personal solutions to homeworks of Generative AI for Science: Summer Intensive 2025
 
 ## 📝 Homework 1
 - 📘 [hw1.ipynb (Q1-a, Q3)](https://github.com/dinos714/2025summer/blob/main/deepul/homeworks/hw1/hw1.ipynb)
