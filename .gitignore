@@ -27,3 +27,8 @@ deepul-env/
 *.tar.gz
 cifar-10-batches-py/
 hw3/data/*.downloading
+
+render.py
+
+!pdfs/hw1.pdf
+!pdfs/hw6.pdf
