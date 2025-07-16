@@ -17,7 +17,7 @@ Personal solutions to homeworks of Generative AI for Science: Summer Intensive 2
 - 📘 [hw4.ipynb (Q1)](https://github.com/dinos714/2025summer/blob/main/deepul/homeworks/hw4/hw4.ipynb)
 
 ## 📝 Homework 5
-- 🚧 *In progress*
+- 📘 [standalone_flow_matching.ipynb](https://github.com/dinos714/2025summer/blob/main/hw5/standalone_flow_matching.ipynb)
 
 ## 📝 Homework 6
 - 📄 [Homework 6 PDF](https://github.com/dinos714/2025summer/blob/main/pdfs/hw6.pdf)
